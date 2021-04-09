@@ -1,1 +1,1 @@
-# ArcoLinux-xmonad-config
+# ArcoLinux-config
